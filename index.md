@@ -41,25 +41,9 @@ layout: default
 			<span class="icon fa-paper-plane"></span>
 			<div class="content">
 				<h3><a href="mailto:{{ site.email }}" target="_blank">Contact</a></h3>
-				<p>We encourage all macaque researchers to get involved, regardless of experience. Access to macaques is <strong>NOT</strong> a prerequisite.</p>
+				<p>We encourage all macaque researchers to get involved, regardless of experience and access to macaque data or subjects.</p>
 			</div>
 		</article>
-	</div>
-</section>
-
-<!-- Section -->
-<section>
-	<header class="major" id="pubs">
-		<h2>Publications</h2>
-	</header>
-	<div class="pubs">
-		<ul>
-			<li><strong>ManyPrimates</strong> et al. <i>(submitted)</i> The evolution of primate short-term memory <a href="https://doi.org/10.31234/osf.io/5etnf">[Preprint] doi:10.31234/osf.io/5etnf</a></li>
-			<li><strong>ManyPrimates</strong> et al. <i>(accepted)</i> Collaboration and open science initiatives in primate research. In M. J. Beran & B. Schwartz, <i>Primate Cognitive Studies</i>. Cambridge University Press. <a href="https://doi.org/10.31219/osf.io/7c93a">[Preprint] doi:10.31219/osf.io/7c93a</a></li>
-			<li><strong>ManyPrimates</strong> et al. (2020) ManyPrimates : une infrastructure de collaboration internationale dans la recherche en cognition des primates. <i>Revue de primatologie 11|2020</i>. <a href="https://doi.org/10.4000/primatologie.8808">doi:10.4000/primatologie.8808</a> <a href="/assets/pdfs/ManyPrimates_RdP_2020.pdf">[&rarr; PDF]</a></li>
-			<li><strong>ManyPrimates</strong> et al. (2019) Collaborative open science as a way to reproducibility and new insights in primate cognition research. <i>Japanese Psychological Review 62</i>(3), 205-220. <a href="https://doi.org/10.24602/sjpr.62.3_205">doi:10.24602/sjpr.62.3_205</a> <a href="/assets/pdfs/ManyPrimates_JPR_2019.pdf">[&rarr; PDF]</a></li>
-			<li><strong>ManyPrimates</strong> et al. (2019) Establishing an infrastructure for collaboration in primate cognition research. <i>PLOS ONE 14</i>(10), e0223675. <a href="https://doi.org/10.1371/journal.pone.0223675">doi:10.1371/journal.pone.0223675</a> <a href="/assets/pdfs/ManyPrimates_PONE_2019.pdf">[&rarr; PDF]</a></li>
-		</ul>
 	</div>
 </section>
 
