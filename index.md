@@ -54,7 +54,7 @@ layout: default
 	</header>
 	<div class="posts">
 		<article>
-			<a href="{{ 'review' | absolute_url }}" class="image"><img src="assets/images/macaques we have copyrights for2.png" alt="" /></a>
+			<a href="{{ 'review' | absolute_url }}" class="image"><img src="assets/images/stumptailed macaques.png" alt="" /></a>
 			<h3>Socio-Ecological Drivers of Social Relationships</h3>
 			<p>This study focuses on the socio-ecological forces that shape variation in social relationships in macaques.</p>
 			<ul class="actions">
