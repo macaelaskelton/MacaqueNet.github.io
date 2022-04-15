@@ -19,7 +19,7 @@ layout: default
 			<span class="icon fa-users"></span>
 			<div class="content">
 				<h3><a href="{{ 'symposium' | absolute_url }}">Symposium</a></h3>
-				<p>Keep up to date with upcoming MacaqueNet events, including symposiums.</p>
+				<p>Keep up to date with upcoming MacaqueNet symposiums.</p>
 				<!-- <p>Join us for the next MacaqueNet symposium.</p> -->
 			</div>
 		</article>
@@ -27,21 +27,21 @@ layout: default
 			<span class="icon fa-pencil"></span>
 			<div class="content">
 				<h3><a href="{{ 'authorship' | absolute_url }}">Authorship Guidelines</a></h3>
-				<p>As a large scientific collaboration that aims to be inclusive, we developed guidelines and criteria for how to assign authorship to individuals involved in ManyPrimates projects.</p>
+				<p>Check our guidelines for assigning authorship to researchers involved in MacaqueNet projects.</p>
 			</div>
 		</article>
 		<article>
 			<span class="icon fa-balance-scale"></span>
 			<div class="content">
 				<h3><a href="{{ 'ethics' | absolute_url }}">Ethics Guidelines</a></h3>
-				<p>We developed ethical guidelines for procedures and participation in ManyPrimates studies.</p>
+				<p>Check our ethical guideleines for project procedures and contributions.</p>
 			</div>
 		</article>
 		<article>
 			<span class="icon fa-paper-plane"></span>
 			<div class="content">
 				<h3><a href="mailto:{{ site.email }}" target="_blank">Contact</a></h3>
-				<p>We encourage everyone who is interested in primate cognition to get involved. Access to primates is <strong>NOT</strong> a prerequisite.</p>
+				<p>We encourage all macaque researchers to get involved, regardless of experience. Access to macaques is <strong>NOT</strong> a prerequisite.</p>
 			</div>
 		</article>
 	</div>
