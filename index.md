@@ -12,15 +12,15 @@ layout: default
 			<span class="icon fa-bullhorn"></span>
 			<div class="content">
 				<h3><a href="{{ 'news' | absolute_url }}">News</a></h3>
-				<p>Catch us at these conferences</p>
+				<p>Find out about the latest news, including recent publications.</p>
 			</div>
 		</article>
 		<article>
 			<span class="icon fa-users"></span>
 			<div class="content">
 				<h3><a href="{{ 'symposium' | absolute_url }}">Symposium</a></h3>
-				<p>We are planning to hold the first ManyPrimates symposium sometime after the pandemic at the MPI for Evolutionary Anthropology in Leipzig, Germany.</p>
-				<!-- <p>Join us for the first ManyPrimates symposium, taking place from July 8th to July 10th 2020 at the MPI for Evolutionary Anthropology in Leipzig, Germany.</p> -->
+				<p>Keep up to date with upcoming MacaqueNet events, including symposiums.</p>
+				<!-- <p>Join us for the next MacaqueNet symposium.</p> -->
 			</div>
 		</article>
 		<article>
