@@ -1,11 +1,11 @@
 # Site settings
-title: ManyPrimates
+title: MacaqueNet
 subtitle: 
-email: manyprimates@gmail.com
-description: Establishing a Culture of Collaboration in Primate Cognition Research
+email: macaquenet@gmail.com
+description: A Global Collaboration Of Macaque Researchers
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://manyprimates.github.io" # the base hostname & protocol for your site
-author: ManyPrimates
+url: "https://macaquenet.github.io" # the base hostname & protocol for your site
+author: MacaqueNet
 lang: en_US
 
 # Social
