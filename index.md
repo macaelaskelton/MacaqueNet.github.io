@@ -17,11 +17,11 @@ layout: default
 			</ul>
 		</article>
 		<article>
-			<a href="{{ 'pilot' | absolute_url }}" class="image"><img src="assets/images/hug barbary finalcropped.jpg" width="200" alt="" /></a>
+			<a href="{{ 'diversity' | absolute_url }}" class="image"><img src="assets/images/hug barbary finalcropped.jpg" width="200" alt="" /></a>
 			<h3>Linking Social Diversity & Complexity</h3>
 			<p>This study explores the link between social diversity and social complexity in macaques.</p>
 			<ul class="actions">
-				<li><a href="{{ 'pilot' | absolute_url }}" class="button">Learn more</a></li>
+				<li><a href="{{ 'diversity' | absolute_url }}" class="button">Learn more</a></li>
 			</ul>
 		</article>
 	</div>
