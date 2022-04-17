@@ -37,7 +37,7 @@ layout: default
 		<article>
 			<span class="icon fa-bullhorn"></span>
 			<div class="content">
-				<h3><a href="{{ 'news' | absolute_url }}">News</a></h3>
+				<h3><a href="{{ 'latest_news' | absolute_url }}">News</a></h3>
 				<p>Find out about the latest news, including recent publications.</p>
 			</div>
 		</article>
