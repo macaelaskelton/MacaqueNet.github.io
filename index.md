@@ -13,7 +13,7 @@ layout: default
 			<h3>Socio-Ecological Drivers of Social Relationships</h3>
 			<p>This study focuses on the socio-ecological forces that shape variation in social relationships in macaques.</p>
 			<ul class="actions">
-				<li><a href="{{ 'review' | absolute_url }}" class="button">Learn more</a></li>
+				<li><a href="{{ 'drivers' | absolute_url }}" class="button">Learn more</a></li>
 			</ul>
 		</article>
 		<article>
