@@ -44,7 +44,7 @@ layout: default
 		<article>
 			<span class="icon fa-users"></span>
 			<div class="content">
-				<h3><a href="{{ 'symposium' | absolute_url }}">Symposium</a></h3>
+				<h3><a href="{{ 'events' | absolute_url }}">Symposium</a></h3>
 				<p>Keep up to date with upcoming MacaqueNet symposiums.</p>
 				<!-- <p>Join us for the next MacaqueNet symposium.</p> -->
 			</div>
