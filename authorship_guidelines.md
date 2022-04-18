@@ -93,7 +93,7 @@ Please note, it is possible that authors will have contributed to more than one 
 
 All MacaqueNet publications will be published with “MacaqueNet” as the first author. Individual authors will be listed in the authorship by-line after “MacaqueNet”. Authorship is claimed by putting one’s own name down in the document used to write up each project. The type of contribution must be specified in the author contribution section of each paper.
 
-If you believe that another person’s claim to authorship is unjustified, they can contact us to verify the contribution and withdraw authorship if it has been unrightfully claimed. If you believe you should be a co-author on any future publications because you are involved in a current project, please contact us.
+If you believe that another person’s claim to authorship is unjustified, you can contact us to verify the contribution and withdraw authorship if it has been unrightfully claimed. If you believe you should be a co-author on any future publications because you are involved in a current project, please [get in touch](mailto:{{ site.email }}).
 
 ## Journal Selection
 
