@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Authorship Guidelines
-permalink: /authorship/
+permalink: /authorship_guidelines/
 image: assets/images/_DSC3597.jpg
 ---
 
