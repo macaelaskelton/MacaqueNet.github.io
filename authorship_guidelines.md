@@ -87,12 +87,13 @@ Due to the collaborative nature of MacaqueNet, contributors are encouraged to co
 
 Please note, it is possible that authors will have contributed to more than one of the roles listed above.
 
-If you believe you should be a co-author on any future publications because you are involved in a current project, please contact us.
 
 
 ## Assigning Authorship
 
-All MacaqueNet publications will be published with “MacaqueNet” as the first author. Individual authors are listed in the authorship by-line after “MacaqueNet”. Authorship is claimed by putting one’s name down in the document that is used to write up each project. The type of contribution must be specified in the author contribution section of each paper. In case one thinks that another person’s claim to authorship is unjustified, they can contact us to verify the contribution and withdraw authorship if it has been unrightfully claimed.
+All MacaqueNet publications will be published with “MacaqueNet” as the first author. Individual authors will be listed in the authorship by-line after “MacaqueNet”. Authorship is claimed by putting one’s own name down in the document used to write up each project. The type of contribution must be specified in the author contribution section of each paper.
+
+If you believe that another person’s claim to authorship is unjustified, they can contact us to verify the contribution and withdraw authorship if it has been unrightfully claimed. If you believe you should be a co-author on any future publications because you are involved in a current project, please contact us.
 
 ## Journal Selection
 
