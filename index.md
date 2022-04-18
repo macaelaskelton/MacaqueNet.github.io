@@ -59,7 +59,7 @@ layout: default
 		<article>
 			<span class="icon fa-balance-scale"></span>
 			<div class="content">
-				<h3><a href="{{ 'ethics' | absolute_url }}">Ethics Guidelines</a></h3>
+				<h3><a href="{{ 'ethics_guidelines' | absolute_url }}">Ethics Guidelines</a></h3>
 				<p>Check our ethical guideleines for project procedures and contributions.</p>
 			</div>
 		</article>
