@@ -52,7 +52,7 @@ layout: default
 		<article>
 			<span class="icon fa-pencil"></span>
 			<div class="content">
-				<h3><a href="{{ 'authorship' | absolute_url }}">Authorship Guidelines</a></h3>
+				<h3><a href="{{ 'authorship_guidelines' | absolute_url }}">Authorship Guidelines</a></h3>
 				<p>Check our guidelines for assigning authorship to researchers involved in MacaqueNet projects.</p>
 			</div>
 		</article>
