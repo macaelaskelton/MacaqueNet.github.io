@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ethics Guidelines
-permalink: /ethics/
+permalink: /ethics_guidelines/
 image: assets/images/tibetan.jpg
 ---
 
