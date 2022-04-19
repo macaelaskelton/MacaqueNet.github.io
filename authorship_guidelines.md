@@ -6,8 +6,9 @@ image: assets/images/_DSC3597.jpg
 ---
 
 We have created clear criteria for assigning authorship to anyone involved in current and future studies that utilise the MacaqueNet database. 
-
 If you have been involved in one or more of the following roles, you will be granted authorship on any publications that arise from the studies you contributed to:
+
+
 
 
 <div class="table-wrapper" style="max-width: 700px">
@@ -84,8 +85,8 @@ If you have been involved in one or more of the following roles, you will be gra
 
 
 Due to the collaborative nature of MacaqueNet, contributors are encouraged to contribute data from as many individuals as possible.
-
 Please note, it is possible that authors will have contributed to more than one of the roles listed above.
+
 
 
 
