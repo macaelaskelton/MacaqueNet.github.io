@@ -16,6 +16,7 @@ The following guidelines must be applied to ALL procedures and contributions for
 - Before contributing data to the MacaqueNet database, you must gain permission from all the researchers who own the data (e.g. those who contributed to the acquisition or management of that data).
 
 
+
 For data collected from <strong>captive</strong> subjects, contributors must also adhere to the following guidelines:
  
 - Researchers must always prioritize animal welfare over research aims.
