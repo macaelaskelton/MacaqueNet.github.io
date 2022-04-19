@@ -5,9 +5,9 @@ permalink: /ethics_guidelines/
 image: assets/images/tibetan.jpg
 ---
 
-We have developed a some basic ethical guidelines for any project wishing to utilise OR contribute to the MacaqueNet database. These guidelines include the utilisation of animals and field sites. 
+We have developed some basic ethical guidelines for any project wishing to utilise OR contribute to the MacaqueNet database. These guidelines include the utilisation of animals and field sites. 
 
-The following guidelines must be applied to ALL procedures and contributions in MacaqueNet projects:
+The following guidelines must be applied to ALL procedures and contributions for MacaqueNet projects:
 
 - MacaqueNet projects must NOT be conducted using invasive methods.
 - All participating researchers answer to an ethics committee which approves the project and is named in the respective publication. 
