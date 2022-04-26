@@ -64,7 +64,7 @@ layout: default
 			</div>
 		</article>
 		<article>
-			<span class="icon fa-address-book"></span>
+			<span class="icon fa fa-address-book"></span>
 			<div class="content">
 				<h3><a href="mailto:{{ site.email }}" target="_blank">Contact</a></h3>
 				<p>We encourage all macaque researchers to get involved, regardless of experience and access to macaque data or subjects.</p>
