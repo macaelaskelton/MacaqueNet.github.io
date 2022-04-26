@@ -35,14 +35,14 @@ layout: default
 	</header>
 	<div class="features">
 		<article>
-			<span class="icon fa-bullhorn"></span>
+			<span class="icon fa-newspaper"></span>
 			<div class="content">
 				<h3><a href="{{ 'latest_news' | absolute_url }}">News</a></h3>
 				<p>Find out about the latest news, including recent publications.</p>
 			</div>
 		</article>
 		<article>
-			<span class="icon fa-users"></span>
+			<span class="icon fa-calendar"></span>
 			<div class="content">
 				<h3><a href="{{ 'events' | absolute_url }}">Events</a></h3>
 				<p>Keep up to date with upcoming MacaqueNet symposiums.</p>
@@ -50,21 +50,21 @@ layout: default
 			</div>
 		</article>
 		<article>
-			<span class="icon fa-book"></span>
+			<span class="icon fa-file-signature"></span>
 			<div class="content">
 				<h3><a href="{{ 'authorship_guidelines' | absolute_url }}">Authorship Guidelines</a></h3>
 				<p>Check our guidelines for assigning authorship to researchers involved in MacaqueNet projects.</p>
 			</div>
 		</article>
 		<article>
-			<span class="icon fa-balance-scale"></span>
+			<span class="icon fa-book"></span>
 			<div class="content">
 				<h3><a href="{{ 'ethics_guidelines' | absolute_url }}">Ethics Guidelines</a></h3>
 				<p>Check our ethical guideleines for project procedures and contributions.</p>
 			</div>
 		</article>
 		<article>
-			<span class="icon fa-paper-plane"></span>
+			<span class="icon fa-address-book"></span>
 			<div class="content">
 				<h3><a href="mailto:{{ site.email }}" target="_blank">Contact</a></h3>
 				<p>We encourage all macaque researchers to get involved, regardless of experience and access to macaque data or subjects.</p>
