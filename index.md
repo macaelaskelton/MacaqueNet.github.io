@@ -31,7 +31,7 @@ layout: default
 <!-- Section -->
 <section>
 	<header class="major">
-		<h2>Get involved</h2>
+		<h2>Find Out More</h2>
 	</header>
 	<div class="features">
 		<article>
