@@ -35,6 +35,13 @@ layout: default
 	</header>
 	<div class="features">
 		<article>
+			<span class="fa-solid fa-monkey"></span>
+			<div class="content">
+				<h3><a href="{{ 'database' | absolute_url }}">The Database</a></h3>
+				<p>Get access to the MacaqueNet multi-species database.</p>
+			</div>
+		</article>
+		<article>
 			<span class="icon fa-newspaper"></span>
 			<div class="content">
 				<h3><a href="{{ 'latest_news' | absolute_url }}">News</a></h3>
