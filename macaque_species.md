@@ -3,7 +3,7 @@ layout: page
 title: "Macaque Species"
 
 permalink: /macaque_species/
-image: assets/images/Aru toyoda longtailed macaques.png
+image: assets/images/home page image compressed.png
 ---
 
 There are now 24 recognised macaque species. The macaques are a diverse and highly successful group, with the broadest distribution of any nonhuman primate, from Morocco to Japan. Each species is specially adapted to thrive in their natural habitat, which means that different macaque species exhibit not only varying morphological and physiological adaptations, but also different social behaviour.
