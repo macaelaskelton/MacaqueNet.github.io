@@ -5,7 +5,7 @@ permalink: /latest_news/
 image: assets/images/japanese for conference.jpg
 ---
 
-Keep up to date with the latest news from MacaqueNet and its collaborators, including events, new projects and puplications.
+**Keep up to date with the latest news from MacaqueNet and its collaborators, including events, new projects and puplications.**
 
 ## Latest MacaqueNet Events
 **Nov 2021: “Weaving the MacaqueNet” symposium** - In Nov 2021 we successfully hosted our first ever MacaqueNet conference. This 3-day symposium provided an opportunity for all the current data contributors to meet, discuss their research and learn about ongoing projects. Together, we discussed the future directions of MacaqueNet as well as the current state and future avenues of macaque social behaviour research as a whole. 
