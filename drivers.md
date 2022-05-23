@@ -18,15 +18,15 @@ This project will address <a href="https://www.friendorigins.com/what-is-friendo
 	</header>
 	<div class="posts">
 		<article>
-			<a class="image"><img src="assets/images/macaques we have copyrights for2.png" width="200" alt="" /></a>
+			<a href="https://delphinedemoor.weebly.com/" class="image"><img src="assets/images/macaques we have copyrights for2.png" width="200" alt="" /></a>
 			<h3>Dr Delphine De Moor</h3>
-			<p>**Postdoctoral Research Fellow** at the University of Exeter's Center For Research In Animal Behaviour</p>
+			<p><strong>Postdoctoral Research Fellow<strong> at the University of Exeter's Center For Research In Animal Behaviour</p>
 			<p>"I am primarily interested in the evolution of sociality. My research asks why social relationships evolved and how they are maintained. Within groups, individuals differ in their tendencies to interact with others and in how deeply embedded they are in their social networks. Across group-living species, the patterning of social interactions and the network structures that emerge from those patterns, varies. Investigating these differences allows me to determine the mechanisms that drive social relationships, their impact on individual health, aging, life-history, and fitness, and to ultimately draw conclusions about their evolved function."</p>
 		</article>
 		<article>
-			<a class="image"><img src="assets/images/hug barbary finalcropped.jpg" width="200" alt="" /></a>
+			<a href="http://www.laurenbrent.com/" class="image"><img src="assets/images/hug barbary finalcropped.jpg" width="200" alt="" /></a>
 			<h3>Dr Lauren Brent</h3>
-			<p>**Associate Professor** at the University of Exeter's Center For Research In Animal Behaviour.</p>
+			<p><strong>Associate Professor<strong> at the University of Exeter's Center For Research In Animal Behaviour.</p>
 			<p>"I am primarily interested in the evolution of sociality. My research asks why social relationships evolved and how they are maintained. Within groups, individuals differ in their tendencies to interact with others and in how deeply embedded they are in their social networks. Across group-living species, the patterning of social interactions and the network structures that emerge from those patterns, varies. Investigating these differences allows me to determine the mechanisms that drive social relationships, their impact on individual health, aging, life-history, and fitness, and to ultimately draw conclusions about their evolved function."</p>
 		</article>
 	</div>
