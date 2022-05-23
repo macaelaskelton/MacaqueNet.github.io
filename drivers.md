@@ -12,3 +12,23 @@ The next step will be to link these differences in social structure to differenc
 This project will address <a href="https://www.friendorigins.com/what-is-friendorigins.html">aim 1</a> of the larger <strong>FriendOrigins</strong> project. 
 <div style="text-align: center;"><img class="image" src ="/assets/images/Formosan - Chungphoto cropped.jpg" style="max-width: 100%; max-height: 600px;" /></div>
 
+<section>
+	<header class="major">
+		<h2>Meet The Team</h2>
+	</header>
+	<div class="posts">
+		<article>
+			<a class="image"><img src="assets/images/macaques we have copyrights for2.png" width="200" alt="" /></a>
+			<h3>Dr Delphine De Moor</h3>
+			<p>**Postdoctoral Research Fellow** at the University of Exeter's Center For Research In Animal Behaviour</p>
+			<p>"I am primarily interested in the evolution of sociality. My research asks why social relationships evolved and how they are maintained. Within groups, individuals differ in their tendencies to interact with others and in how deeply embedded they are in their social networks. Across group-living species, the patterning of social interactions and the network structures that emerge from those patterns, varies. Investigating these differences allows me to determine the mechanisms that drive social relationships, their impact on individual health, aging, life-history, and fitness, and to ultimately draw conclusions about their evolved function."</p>
+		</article>
+		<article>
+			<a class="image"><img src="assets/images/hug barbary finalcropped.jpg" width="200" alt="" /></a>
+			<h3>Dr Lauren Brent</h3>
+			<p>**Associate Professor** at the University of Exeter's Center For Research In Animal Behaviour.</p>
+			<p>"I am primarily interested in the evolution of sociality. My research asks why social relationships evolved and how they are maintained. Within groups, individuals differ in their tendencies to interact with others and in how deeply embedded they are in their social networks. Across group-living species, the patterning of social interactions and the network structures that emerge from those patterns, varies. Investigating these differences allows me to determine the mechanisms that drive social relationships, their impact on individual health, aging, life-history, and fitness, and to ultimately draw conclusions about their evolved function."</p>
+		</article>
+	</div>
+</section>
+
