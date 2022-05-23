@@ -19,22 +19,29 @@ This project will test this hypothetical link between social diversity and socia
 	</header>
 	<div class="posts">
 		<article>
-			<a href="https://delphinedemoor.weebly.com/" class="image"><img src="assets/images/hug barbary finalcropped.jpg" width="200" alt="" /></a>
+			<a href="https://www.ecoanthropologie.fr/fr/annuaire/duboscq-julie-6801" class="image"><img src="assets/images/macaques we have copyrights for2.png" width="200" alt="" /></a>
 			<h3>Dr Julie Duboscq</h3>
-			<p><strong>Researcher<strong> at UMR7206 Eco-anthropology, CNRS-MNHN-Université de Paris and the Johann-Friedrich-Blumenbach Institute for Zoology and Anthropology, University of Göttingen</p>
+			<p><strong>Researcher<strong/> at UMR7206 Eco-anthropology, CNRS-MNHN-Université de Paris and the Johann-Friedrich-Blumenbach Institute for Zoology and Anthropology, University of Göttingen</p>
 			<p><em>"I am a behavioural biologist interested in the evolution, functions and mechanisms of sociality. I mainly study social relationships and social processes in macaques in order to understand how and why they form and maintain relationships. I am also interested in social transmission of behaviour and parasites/pathogens, which is tightly linked to the evolution of sociality. The structure of a society greatly influences the patterns of social transmission, but less studied is the other side of that coin, how transmission affects the structure and evolution of society".</em></p>
 			<ul class="actions">
-				<li><a href="https://www.ecoanthropologie.fr/fr/annuaire/duboscq-julie-6801" class="button">Learn more</a></li>
+				<li><a href="{{ 'drivers' | absolute_url }}" class="button">Learn more</a></li>
 			</ul>
 		</article>
 		<article>
-			<a class="image"><img src="assets/images/hug barbary finalcropped.jpg" width="200" alt="" /></a>
+			<a href="{{ 'diversity' | absolute_url }}" class="image"><img src="assets/images/hug barbary finalcropped.jpg" width="200" alt="" /></a>
 			<h3>Dr Christof Neumann</h3>
-			<p><strong>Postdoctoral Scientist<strong> at the German Primate Center's Cognitive Ethology Lab</p>
-			<p><em>"I am a behavioural biologist with a background in social behaviour and communication and so far, I worked mostly with primates. My interests in this regard circle around the question of why and how individuals in groups form the relationships they form. I am also very interested in the nuts and bolts of how we use statistics to analyse social behaviour, especially with respect to improving our quantification of behaviour on the individual, dyadic and group level. More recently, I became interested in formal comparative methods where we try to model aspects of social behaviour across species while accounting for the phylogenetic relationships among them".</em></p>
+			<p><strong>Postdoctoral Scientist</strong> at the German Primate Center's Cognitive Ethology Lab</p>
+			<p><em>"I am a behavioural biologist with a background in social behaviour and communication and so far, I worked mostly with primates. My interests in this regard circle around the question of why and how individuals in groups form the relationships they form. I am also very interested in the nuts and bolts of how we use statistics to analyse social behaviour, especially with respect to improving our quantification of behaviour on the individual, dyadic and group level. More recently, I became interested in formal comparative methods where we try to model aspects of social behaviour across species while accounting for the phylogenetic relationships among them."</em></p>
+			<ul class="actions">
+				<li><a href="{{ 'diversity' | absolute_url }}" class="button">Learn more</a></li>
+			</ul>
 		</article>
 	</div>
 </section>
+
+
+		
+		
 
 
 
