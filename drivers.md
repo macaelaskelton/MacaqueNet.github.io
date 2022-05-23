@@ -11,9 +11,9 @@ The next step will be to link these differences in social structure to differenc
 
 This project will address <a href="https://www.friendorigins.com/what-is-friendorigins.html">aim 1</a> of the larger <strong>FriendOrigins</strong> project. 
 <div style="text-align: center;"><img class="image" src ="/assets/images/Formosan - Chungphoto cropped.jpg" style="max-width: 100%; max-height: 600px;" /></div>
+***
 
-
-
+<!-- Section -->
 <section>
 	<header class="major">
 		<h2>Meet The Team</h2>
