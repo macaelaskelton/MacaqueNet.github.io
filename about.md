@@ -5,12 +5,13 @@ title: "About"
 permalink: /about/
 image: assets/images/3 image what is macaquenet collage.png
 ---
+***
 
 ## What Is MacaqueNet?
 
-MacaqueNet is an international network of researchers who have collected data on macaques from all four corners of the globe. MacaqueNet encompasses experts from every field of macaque research, from a wide range of field sites and institutions. Together, we can establish a culture where knowledge and resources are shared, to improve and expand the current state of macaque research. Only through cross-species comparative research can we truly identify which mechanisms drive behaviour and cognitive processes and shed light on when, why and how these evolved. In the last decade, the field of macaque research has grown at an unprecedented rate, making the macaca genus one of the most widely studied taxa in primate research. Now let’s see what we can achieve within the next 10 years, together.
+MacaqueNet is a global grass-roots collaboration, bringing macaque experts from a wide range of research fields together.  The aim of MacaqueNet is to strengthen and create new connections between macaque researchers, to promote truly interdisciplinary and cross-species big-team science. Together, we can join forces to establish a culture where knowledge and resources are shared to let comparative macaque research reach its full potential.
 
-Thanks to MacaqueNet, we have been able to create an unparalleled multi-species <a href="{{ 'database' | absolute_url }}">database</a>. The database will contain social behavioural data from at least 15 of the 24 recognised macaque species, collected over the last few decades by over 90 researchers at 56 different field sites. Available social data will include matrices of grooming, aggression, body-contact and proximity.
+Thanks to MacaqueNet, we have been able to create an unparalleled multi-species <a href="{{ 'database' | absolute_url }}">database</a>. The database currently contains social behavioural data from at least 14 of the 24 macaque species. This data has been, collected over the last few decades by over 90 researchers at 56 different field sites, zoos or research centres.
 
 <div style="text-align:center"><img class="image" src="/assets/images/macaque_network.png" width="700" height="600"/></div><br/>
 
@@ -18,7 +19,12 @@ Thanks to MacaqueNet, we have been able to create an unparalleled multi-species 
 
 ## Why Macaques?
 
-There are many reasons why macaques are so well studied. All macaque species share a similar social organisation, with individuals living in large, mixed-sex social groups, males dispersing to a new group once they reach sexual maturity, and females remaining in the group where they were born throughout their lives. However, different macaque species differ greatly in the structure of their social networks. In some macaque species, individuals form strong bonds with only a few preferred partners, whereas in other species relationships are more undifferentiated and individuals are tolerant towards most of their group members. Our deep knowledge of the ecology and social lives of macaques, along with the availability of detailed observational data for many of the macaque species, make the Macaca genus an ideal study system in which to test the social and ecological drivers of variation in social behaviour.
+Macaques have been studied intensively both in the wild and in the lab in the last few decades, which has lead to extensive knowledge of their social behaviour and ecology and has strongly informed research on the biological underpinnings of those behaviours. Moreover, macaque research has also been among the pioneers of comparative research in behavioural ecology. As such, studies on macaques have been crucial to our current understanding of the evolution social relationships, from both proximate and ultimate perspectives.
+
+Macaques are also one of the largest primate taxa, living in a variety of habitats and showing morphological and behavioural adaptations to their different socio-ecological environments. One of the key strengths of the macaques is that while they are very similar in their basic social organisation, they show substantial variation in their social structure, with stark differences in the level of despotism and kin bias across species. Together, this allows us to ask questions about the causes and consequences of forming social relationships and living in despotic or more egalitarian societies, keeping other confounding factors constant.
+Currently, we are looking into questions like ‘Which socio-ecological forces shape variation in social structure across macaque species?’ and ’Do more tolerant macaques have more diverse social relationships and therefore higher social complexity? These are just a few examples of questions we can answer through comparative research. Through big-team macaque research, we can further explore the function and underlying mechanisms of sociality, social bonding and social complexity.
+
+As MacaqueNet grows and the database expands to include behavioural, life history, ecological, genetic and other data on different macaque species, we can build a truly interdisciplinary comparative system in which to ask questions about the evolution of social relationships. We’ve already come so far, now <strong>let’s see what we can achieve within the next 10 years, together</strong>.
 
 <div style="text-align:center"><img class="image" src="/assets/images/social network image.png" /></div><br/>
 
