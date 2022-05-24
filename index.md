@@ -34,8 +34,7 @@ layout: default
 	</header>
 	<div class="posts">
 		<article>
-			<a href="{{ 'macaque_species | absolute_url }}" class="image"><img src="assets/images/_MG_5562_3_crop.jpg" width="200" alt="" /></a>
-			<h3>Want to learn more about macaques?</h3>
+			<a href="{{ 'macaque_species | absolute_url }}" class="image"><img src="assets/images/_MG_5562_3_crop.jpg" alt="" /></a>
 			<p>Click "Find Out More" to learn about macaques and play our fun quiz to find out which macaque species aligns with your personality best. Go on, you know you want to!</p>
 			<ul class="actions">
 				<li><a href="{{ 'macaque_species' | absolute_url }}" class="button">Find Out More</a></li>
