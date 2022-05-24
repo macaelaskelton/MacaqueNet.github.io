@@ -41,5 +41,7 @@ layout: default
 				<li><a href="{{ 'macaque_species' | absolute_url }}" class="button">Find Out More</a></li>
 			</ul>
 		</article>
+	</div>
+</section>
 
 
