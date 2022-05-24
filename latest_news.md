@@ -2,7 +2,6 @@
 layout: page
 title: "News"
 permalink: /latest_news/
-image: assets/images/japanese for conference.jpg
 ---
 ***
 **Keep up to date with the latest news from MacaqueNet and its collaborators, including events, new projects and puplications.**
