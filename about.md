@@ -6,7 +6,6 @@ permalink: /about/
 ***
 
 <div style="text-align:center"><img class="image" src="/assets/images/3 image what is macaquenet collage.png" /></div><br/>
-
 ## What Is MacaqueNet?
 
 MacaqueNet is a global grass-roots collaboration, bringing macaque experts from a wide range of research fields together. The aim of MacaqueNet is to strengthen and create new connections between macaque researchers, to promote truly interdisciplinary and cross-species big-team science. Together, we can join forces to establish a culture where knowledge and resources are shared to let comparative macaque research reach its full potential.
