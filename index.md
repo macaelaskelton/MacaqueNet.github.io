@@ -33,7 +33,7 @@ layout: default
 		<h2>Want to learn more about macaques?</h2>
 	</header>
 <a href="{{ 'database' | absolute_url }}">Click here</a> to learn about macaques and play our fun quiz to find out which macaque species aligns with your personality best. Go on, you know you want to!
+	<div style="text-align:center"><img class="image" src="/assets/images/_MG_5562_3_crop.jpg"/></div><br/>
 </section>
-<div style="text-align:center"><img class="image" src="/assets/images/_MG_5562_3_crop.jpg"/></div><br/>
-***
+
 
