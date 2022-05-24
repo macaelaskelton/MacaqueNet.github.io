@@ -26,6 +26,6 @@ Currently, we are looking into questions like ‘Which socio-ecological forces s
 
 As MacaqueNet grows and the database expands to include behavioural, life history, ecological, genetic and other data on different macaque species, we can build a truly interdisciplinary comparative system in which to ask questions about the evolution of social relationships. We’ve already come so far, now let’s see what we can achieve within the next 10 years, <strong>together</strong>.
 
-<div style="text-align:center"><img class="image" src="/assets/images/social network image.png" /></div><br/>
+<div style="text-align:center"><img class="image" src="/assets/images/home page image compressed.png" /></div><br/>
 
 ***
