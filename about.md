@@ -1,11 +1,11 @@
 ---
 layout: page
 title: "About"
-
 permalink: /about/
-image: assets/images/3 image what is macaquenet collage.png
 ---
 ***
+
+<div style="text-align:center"><img class="image" src="/assets/images/3 image what is macaquenet collage.png" /></div><br/>
 
 ## What Is MacaqueNet?
 
