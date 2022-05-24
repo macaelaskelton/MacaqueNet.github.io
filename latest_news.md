@@ -4,6 +4,7 @@ title: "News"
 permalink: /latest_news/
 ---
 ***
+
 **Keep up to date with the latest news from MacaqueNet and its collaborators, including events, new projects and puplications.**
 
 **May 2022: New MacaqueNet logo** - We are excited to announce that MacaqueNet now has its very own logo! We worked closely with Sarah Nason at <a href="https://www.wapitistudios.ca/">Wapiti Studios</a>, who has done a marvellous job visualising MacaqueNet. We wanted to include images of a few different macaques species, to emphasise the cross-species comparative nature of the collaborative network. The network element represents both our network of collaborators that have joined together to build MacaqueNet and make it what it is today, as well as hinting to the social focus of MacaqueNet. We think it's perfect, even if we do say so ourselves!
