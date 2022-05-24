@@ -3,6 +3,7 @@ layout: page
 title: "Linking Social Diversity & Complexity"
 permalink: /diversity/
 ---
+***
 
 <div style="text-align:center"><img class="image" src="/assets/images/bonnet and tibetan.png"/></div><br/>
 
@@ -11,31 +12,7 @@ The different macaque species show the same social organisation but express diff
 This project will test this hypothetical link between social diversity and social complexity at a much larger scale than before, taking a cross-species comparative approach. We will analyse the types of relationships macaques form, more affinitive, more agonistic, more ambivalent, their frequency or density, and determine indices of diversity and complexity. We will then compare these indices controlling for phylogeny. This will give us insight into how we can define diversity and complexity better and more broadly, and whether or not social styles as currently conceptualised are associated with social complexity as further defined. 
 <div style="text-align:center"><img class="image" src="/assets/images/Japanese macaques.jpeg" /></div><br/>
 
-<!-- Section -->
-<section>
-	<header class="major">
-		<h2>Projects</h2>
-	</header>
-	<div class="posts">
-		<article>
-			<a href="{{ 'drivers' | absolute_url }}" class="image"><img src="assets/images/macaques we have copyrights for2.png" width="200" alt="" /></a>
-			<h3>Socio-Ecological Drivers of Social Relationships</h3>
-			<p>This study focuses on the socio-ecological forces that shape variation in social relationships in macaques.</p>
-			<ul class="actions">
-				<li><a href="{{ 'drivers' | absolute_url }}" class="button">Learn more</a></li>
-			</ul>
-		</article>
-		<article>
-			<a href="{{ 'diversity' | absolute_url }}" class="image"><img src="assets/images/hug barbary finalcropped.jpg" width="200" alt="" /></a>
-			<h3>Linking Social Diversity & Complexity</h3>
-			<p>This study explores the link between social diversity and social complexity in macaques.</p>
-			<ul class="actions">
-				<li><a href="{{ 'diversity' | absolute_url }}" class="button">Learn more</a></li>
-			</ul>
-		</article>
-	</div>
-</section>
-
+***
 
 <!-- Section -->
 <section>
@@ -46,10 +23,10 @@ This project will test this hypothetical link between social diversity and socia
 		<article>
 			<a href="https://www.ecoanthropologie.fr/fr/annuaire/duboscq-julie-6801" class="image"><img src="assets/images/macaques we have copyrights for2.png" width="200" alt="" /></a>
 			<h3>Dr Julie Duboscq</h3>
-			<p><strong>Researcher<strong/> at UMR7206 Eco-anthropology, CNRS-MNHN-Université de Paris and the Johann-Friedrich-Blumenbach Institute for Zoology and Anthropology, University of Göttingen</p>
+			<p>Researcher<strong/> at UMR7206 Eco-anthropology, CNRS-MNHN-Université de Paris and the Johann-Friedrich-Blumenbach Institute for Zoology and Anthropology, University of Göttingen</p>
 			<p><em>"I am a behavioural biologist interested in the evolution, functions and mechanisms of sociality. I mainly study social relationships and social processes in macaques in order to understand how and why they form and maintain relationships. I am also interested in social transmission of behaviour and parasites/pathogens, which is tightly linked to the evolution of sociality. The structure of a society greatly influences the patterns of social transmission, but less studied is the other side of that coin, how transmission affects the structure and evolution of society".</em></p>
 			<ul class="actions">
-				<li><a href="{{ 'drivers' | absolute_url }}" class="button">Learn more</a></li>
+				<li><a href="https://www.ecoanthropologie.fr/fr/annuaire/duboscq-julie-6801" class="button">Learn more</a></li>
 			</ul>
 		</article>
 		<article>
@@ -64,6 +41,7 @@ This project will test this hypothetical link between social diversity and socia
 	</div>
 </section>
 
+***
 
 		
 		
