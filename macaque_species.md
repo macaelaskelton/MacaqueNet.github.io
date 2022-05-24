@@ -1,12 +1,14 @@
 ---
 layout: page
 title: "Macaque Species"
-
 permalink: /macaque_species/
-image: assets/images/home page image compressed.png
 ---
 
 There are now 224 recognised macaque species. The macaques are a diverse and highly successful group, with the broadest distribution of any nonhuman primate, from the tropical islands of Sulawesi to the Atlas mountains in Moroccco.  We can even find Barbary macaques in With each species adapted to thrive in their natural habitat, different macaque species exhibit not only varying morphological adaptations, but also different social behaviour.
+
+<div style="text-align:center"><img class="image" src="/assets/images/home page image compressed.png" width="700" height="600"/></div><br/>
+
+***
 
 Why not try our fun quiz, where you answer 10 questions to find out which of 6 species of macaque matches your personality best? It only takes 5-10 minutes - perfect to fill coffee breaks or as a procrastination activity (we won't tell anyone)!
 
