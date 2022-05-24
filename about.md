@@ -12,7 +12,7 @@ MacaqueNet is an international network of researchers who have collected data on
 
 Thanks to MacaqueNet, we have been able to create an unparalleled multi-species <a href="{{ 'database' | absolute_url }}">database</a>. The database will contain social behavioural data from at least 15 of the 24 recognised macaque species, collected over the last few decades by over 90 researchers at 56 different field sites. Available social data will include matrices of grooming, aggression, body-contact and proximity.
 
-<div style="text-align:center"><img class="image" src="/assets/images/macaque_network.png" width="600", height="600"/></div><br/>
+<div style="text-align:center"><img class="image" src="/assets/images/macaque_network.png" width="600" height="600"/></div><br/>
 
 ***
 
