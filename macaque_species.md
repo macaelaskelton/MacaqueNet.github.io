@@ -22,6 +22,6 @@ There are now 24 recognised macaque species. The macaques are a diverse and high
 ## Quiz
 Why not try our fun quiz, where you answer 10 questions to find out which of 6 species of macaque matches your personality best? It only takes 5-10 minutes - perfect to fill coffee breaks or as a procrastination activity (we won't tell anyone)!
 
-<iframe name="opinionstage-widget" src="https://www.opinionstage.com/api/v1/widgets/916332/iframe?em=1" data-opinionstage-iframe="d7f66ecf-5589-471c-bf90-9a6bff64304b" width="700px" height="650" scrolling="auto" style="border: none;" frameBorder="0" allow="fullscreen" webkitallowfullscreen="true" mozallowfullscreen="true" rereferrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe style="text-align:center" name="opinionstage-widget" src="https://www.opinionstage.com/api/v1/widgets/916332/iframe?em=1" data-opinionstage-iframe="d7f66ecf-5589-471c-bf90-9a6bff64304b" width="700px" height="650" scrolling="auto" style="border: none;" frameBorder="0" allow="fullscreen" webkitallowfullscreen="true" mozallowfullscreen="true" rereferrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ***
