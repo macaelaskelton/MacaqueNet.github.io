@@ -4,6 +4,7 @@ title: "MacaqueNet Events"
 permalink: /events
 image: assets/images/toque.jpg
 ---
+***
 
 ## Upcoming Symposiums
 
@@ -11,6 +12,6 @@ After the success of the first "Weaving the MacaqueNet" symposium in November 20
 
 <strong>Check back again soon for more updates!</strong>
 
-<div style="text-align: center;"><img class="image" src ="/assets/images/home page image compressed.png" style="max-width: 100%; max-height: 800px;" /></div>
+
 
 
