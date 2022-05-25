@@ -65,7 +65,6 @@ This project will test this hypothetical link between social diversity and socia
 		</article>
 	</div>
 </section>
-
 ***
 
 		
