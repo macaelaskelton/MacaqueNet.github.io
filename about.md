@@ -14,7 +14,7 @@ Thanks to MacaqueNet, we have been able to create an unparalleled multi-species 
 
 
 
-<div style="text-align:center"><img class="image" src="/assets/images/macaque_network.png" max-width:100% height:auto/></div><br/>
+<div style="text-align:center"><img class="image" src="/assets/images/macaque_network.png" max-width=100% height=auto/></div><br/>
 
 ***
 
