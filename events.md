@@ -2,7 +2,7 @@
 layout: page
 title: "MacaqueNet Events"
 permalink: /events
-image: assets/images/toque.jpg
+image: assets/images/toque.png
 ---
 ***
 
