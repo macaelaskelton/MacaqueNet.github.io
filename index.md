@@ -34,14 +34,14 @@ layout: default
 	</header>
 	<div class="posts">
 		<article>
-			<a href="{{ 'macaque_species' | absolute_url }}" class="image"><img src="assets/images/rhesus mom blonde - Alyssa Arre.jpg" alt="" /></a>
+			<a href="{{ 'macaque_species' | absolute_url }}" class="image"><img src="assets/images/rhesus mom blonde - Alyssa Arre.jpg" width="200" alt="" /></a>
 			<p>Click "Find Out More" to learn about macaques and play our fun quiz to find out which macaque species aligns with your personality best. Go on, you know you want to!</p>
 			<ul class="actions">
 				<li><a href="{{ 'macaque_species' | absolute_url }}" class="button">Find Out More</a></li>
 			</ul>
 		</article>
 		<article>
-			<a href="{{ 'database' | absolute_url }}" class="image"><img src="assets/images/gorontalo macaque shutterstock.jpg" alt="" /></a>
+			<a href="{{ 'database' | absolute_url }}" class="image"><img src="assets/images/gorontalo macaque shutterstock.jpg" width="200" alt="" /></a>
 			<p>Want to find out more about the MacaqueNet database? Click the button below to learn how to access and contribute to our ever-growing database.</p>
 			<ul class="actions">
 				<li><a href="{{ 'database' | absolute_url }}" class="button">Find Out More</a></li>
