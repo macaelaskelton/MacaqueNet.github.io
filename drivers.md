@@ -13,6 +13,7 @@ This project is part of the larger, ERC-funded  <a href="https://www.friendorigi
 
 ***
 
+<div
 <header class="major">
 	<h2>Meet The Team</h2>
 </header>
@@ -52,3 +53,4 @@ This project is part of the larger, ERC-funded  <a href="https://www.friendorigi
 	<li><a href="https://www.uni-goettingen.de/de/pd+dr.+oliver+sch%c3%bclke/506891.html" class="button">Learn more</a></li>
 </ul>
 ***
+/div>
