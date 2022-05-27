@@ -44,4 +44,4 @@ This project is part of the larger, ERC-funded  <a href="https://www.friendorigi
 <ul class="actions">
 	<li><a href="https://www.uni-goettingen.de/de/pd+dr.+oliver+sch%c3%bclke/506891.html" class="button">Learn more</a></li>
 </ul>
-***
+
