@@ -24,6 +24,7 @@ This project will test this hypothetical link between social diversity and socia
 <ul class="actions">
 	<li><a href="https://www.ecoanthropologie.fr/fr/annuaire/duboscq-julie-6801" class="button">Learn more</a></li>
 </ul>
+
 <span class="image left"><img src="/assets/images/christof.jpg" height="260"/></span>
 <h3>Dr Christof Neumann</h3>
 <p><strong>Postdoctoral Scientist</strong> at the German Primate Center's Cognitive Ethology Lab</p>
