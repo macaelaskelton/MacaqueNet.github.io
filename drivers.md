@@ -13,10 +13,10 @@ This project is part of the larger, ERC-funded  <a href="https://www.friendorigi
 
 ***
 
-
 <header class="major">
 	<h2>Meet The Team</h2>
 </header>
+***
 <span class="image left"><img src="/assets/images/writing protocols.jpg" width="50%"/></span>
 <h3>Dr Delphine De Moor</h3>
 <p><strong>Postdoctoral Research Fellow</strong> at the University of Exeter's Center For Research In Animal Behaviour</p>
@@ -24,6 +24,7 @@ This project is part of the larger, ERC-funded  <a href="https://www.friendorigi
 <ul class="actions">
 	<li><a href="https://delphinedemoor.weebly.com/" class="button">Learn more</a></li>
 </ul>
+***
 
 <span class="image left"><img src="/assets/images/me 88i.jpg" width="50%"/></span>
 <h3>Dr Lauren Brent</h3>
@@ -32,7 +33,8 @@ This project is part of the larger, ERC-funded  <a href="https://www.friendorigi
 <ul class="actions">
 	<li><a href="http://www.laurenbrent.com/" class="button">Learn more</a></li>
 </ul>
-	
+***	
+
 <span class="image left"><img src="/assets/images/julia ostner.jpg" width="50%"/></span>
 <h3>Dr Julia Ostner</h3>
 <p><strong>Professor and Department Leader</strong> at the Johann-Friedrich-Blumenbach Institute for Zoology and Anthropology, University of Göttingen and the German Primate Center (DPZ)</p>
@@ -40,7 +42,8 @@ This project is part of the larger, ERC-funded  <a href="https://www.friendorigi
 <ul class="actions">
 	<li><a href="https://www.uni-goettingen.de/de/164051.html" class="button">Learn more</a></li>
 </ul>
-	
+***
+
 <span class="image left"><img src="/assets/images/oliver.jpg" width="50%"/></span>
 <h3>Dr Oliver Schülke</h3>
 <p><strong>Senior Scientist</strong> at Johann-Friedrich-Blumenbach Institute for Zoology and Anthropology, University of Göttingen and the German Primate Center (DPZ)</p>
