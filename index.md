@@ -30,7 +30,7 @@ layout: default
 <!-- Section -->
 <section>
 	<header class="major">
-		<h2>Want to learn more about macaques?</h2>
+		<h2>Want to learn more about macaques and our MacaqueNet database?</h2>
 	</header>
 	<div class="posts">
 		<article>
@@ -40,10 +40,6 @@ layout: default
 				<li><a href="{{ 'macaque_species' | absolute_url }}" class="button">Find Out More</a></li>
 			</ul>
 		</article>
-	<header class="major">
-		<h2>Want to learn about the database?</h2>
-	</header>	
-	<div class="posts">
 		<article>
 			<a href="{{ 'database' | absolute_url }}" class="image"><img src="assets/images/gorontalo macaque cropped.jpg" width="200" alt="" /></a>
 			<p>Want to find out more about the MacaqueNet database? Click the button below to learn how to access and contribute to our ever-growing database.</p>
