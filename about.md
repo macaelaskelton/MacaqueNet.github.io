@@ -13,8 +13,8 @@ MacaqueNet is a global grass-roots collaboration, bringing macaque experts from 
 Thanks to MacaqueNet, we have been able to create an unparalleled multi-species <a href="{{ 'database' | absolute_url }}">database</a>. The database currently contains social behavioural data from 14 of the 24 macaque species, with data on affiliation and agonism for over 2000 individual female and 1000 male macaques. This data has been collected over the last few decades by over 90 researchers at 56 different field sites, zoos or research centres. 
 
 
+<div style="text-align:center"><img class="image" src="/assets/images/macaque_network.png" width="700"/></div><br/>
 
-<div style="text-align:center"><img class="image" src="/assets/images/macaque_network.png"/></div><br/>
 
 ***
 
