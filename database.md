@@ -10,7 +10,7 @@ The MacaqueNet database contains social behaviour data from 14 macaque species, 
 The data availability tool below allows you to browse through the MacaqueNet database to see what types of social data are available for each macaque species. For now, this uses the rhesus macaque data from the Cayo Santiago field site in Puerto Rico as an example, to show what the database might look like in the future. Available data include matrices of grooming, aggression, body contact and proximity. 
 With the permission of the collaborators, use of the database will be carried out under FAIR data principles, to make the data **F**indable, **A**ccessible, **I**nteroperable and **R**eusable. Information on how to request access to the database will follow in due course!
 
-<iframe height="400" width="100%" frameborder="no" src="https://delphinedemoor.shinyapps.io/macaque_dataset_overview/_w_78b0a15f/"> </iframe>
+<iframe height="400" width="100%" frameborder="no" src="https://delphinedemoor.shinyapps.io/Shiny_app_Cayo_only/"> </iframe>
 
 ***
 
