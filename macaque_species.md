@@ -11,7 +11,7 @@ There are now 24 recognised macaque species. The macaques are a diverse and high
 
 ***
 
-## The complex social lives of macaques 
+## The Complex Social Lives Of Macaques 
 
  All macaque species share a similar social organisation: they live in large, mixed-sex social groups of up to several hundred animals. In all species, males disperse to a new group once they reach sexual maturity, while females remain in the group where they were born throughout their lives. However, different macaque species differ greatly in the structure of their social networks. In some macaque species, individuals form strong bonds with only a few preferred partners, whereas in other species relationships are more undifferentiated and individuals are tolerant towards most of their group members. Similarly, in some species only a single or a few males breed and sire all offspring, whereas in others, it’s a bit of a free-for-all! 
 
