@@ -28,6 +28,8 @@ This project will test this hypothetical link between social diversity and socia
 <h3>Dr Christof Neumann</h3>
 <p><strong>Postdoctoral Scientist</strong> at the German Primate Center's Cognitive Ethology Lab</p>
 <p><em>"I am a behavioural biologist with a background in social behaviour and communication and so far, I worked mostly with primates. My interests in this regard circle around the question of why and how individuals in groups form the relationships they form. I am also very interested in the nuts and bolts of how we use statistics to analyse social behaviour, especially with respect to improving our quantification of behaviour on the individual, dyadic and group level. More recently, I became interested in formal comparative methods where we try to model aspects of social behaviour across species while accounting for the phylogenetic relationships among them."</em></p>
+
+
 ***
 
 
