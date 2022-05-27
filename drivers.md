@@ -5,7 +5,7 @@ permalink: /drivers/
 ---
 ***
 
-<div style="text-align:center"><img class="image" src="/assets/images/macaques_trio.png"/></div><br/>
+<div style="text-align:center"><img class="image center" src="/assets/images/macaques_trio.png"/></div><br/>
 
 <p>Although affiliative relationships are wide-spread in group-living animals, the evolved function of these relationships remains unclear. Macaques share a similar social organisation, but show substantial variation in their social structure and ecology, making them an ideal system in which to study the selective forces acting on social relationships. Using network-based approaches we will quantify variation in the expression of dyadic relationships between female macaques across several groups and populations of 14 species of macaques. These differences in social structure will be linked to differences in social and ecological pressures, such as female hierarchy steepness, male reproductive skew, mean relatedness, climate & seasonality of the habitat and predation risk. We will also consider phylogenetic relationships between species as a driver of similarity between closely related species. By taking a cross-species comparative approach, we can uncover which types of social relationships are selected for under different socio-ecological contexts. Ultimately, we aim to explicitly address which types of social relationships are adaptive under which circumstances, and why.
 	
@@ -20,7 +20,7 @@ This project is part of the larger, ERC-funded  <a href="https://www.friendorigi
 	</header>
 	<div class="posts">
 		<article>
-			<a href="https://delphinedemoor.weebly.com/" class="image"><img src="/assets/images/writing protocols.jpg" width="50%" alt="" /></a>
+			<a href="https://delphinedemoor.weebly.com/" class="image"><img src="/assets/images/writing protocols.jpg" width="100" alt="" /></a>
 			<h3>Dr Delphine De Moor</h3>
 			<p><strong>Postdoctoral Research Fellow</strong> at the University of Exeter's Center For Research In Animal Behaviour</p>
 			<p><em>"I am primarily interested in the evolution of sociality. My research asks why social relationships evolved and how they are maintained. Within groups, individuals differ in their tendencies to interact with others and in how deeply embedded they are in their social networks. Across group-living species, the patterning of social interactions and the network structures that emerge from those patterns, varies. Investigating these differences allows me to determine the mechanisms that drive social relationships, their impact on individual health, aging, life-history, and fitness, and to ultimately draw conclusions about their evolved function".</em></p>
