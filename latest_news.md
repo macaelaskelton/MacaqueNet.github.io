@@ -21,6 +21,8 @@ permalink: /latest_news/
 
 **Apr 2022: Phu Khieo Wildlife Sanctuary** - Our collaborator field site Phu Khieo in Thailand welcomed a pair of twin assamese macaque babies in 2022! These rare babies mark the first twin birth in over 200 births at the field site. 
 
+<div style="text-align:center"><img class="image" src="/assets/images/assamese_babies.png" width="200"/></div><br/>
+
 ***
 
 ## Publications
