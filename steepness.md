@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Rank-related fitness benefits and hierarchy steepness in primates"
+title: "Rank-Related Fitness Benefits And Hierarchy Steepness In Primates"
 permalink: /steepness/
 ---
 ***
