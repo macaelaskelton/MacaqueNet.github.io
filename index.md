@@ -24,6 +24,15 @@ layout: default
 				<li><a href="{{ 'diversity' | absolute_url }}" class="button">Learn more</a></li>
 			</ul>
 		</article>
+		<article>
+			<a href="{{ 'steepness' | absolute_url }}" class="image"><img src="assets/images/ToyodaLongtailed.png" width="200" alt="" /></a>
+			<h3>Rank-related fitness benefits and hierarchy steepness in primates</h3>
+			<p>This study investigates the relationship between the steepness of the hierarchy and the skew of the distribution of resources.</p>
+			<ul class="actions">
+				<li><a href="{{ 'steepness' | absolute_url }}" class="button">Learn more</a></li>
+			</ul>
+		</article>
+		
 	</div>
 </section>
 
