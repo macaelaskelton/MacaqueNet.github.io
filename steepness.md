@@ -1,3 +1,4 @@
+---
 layout: page
 title: "Rank-related fitness benefits and hierarchy steepness in primates"
 permalink: /steepness/
