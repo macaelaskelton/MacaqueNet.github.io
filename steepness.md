@@ -24,7 +24,9 @@ In this project, we test the hypothesis that there is a positive relationship be
 <span class="image left"><img src="/assets/images/SchinoWeb.jpg" width="100" height="240" /></span>
 <h3>Dr Gabriele Schino</h3>
 <p><strong>Research Director</strong> at the Institute of Cognitive Sciences and Technologies, National Research Council</p>
-<p><em>"I am a biologist interested in the social behaviour and cognition of animals, especially of primates. I conduct experimental and observational studies in our own lab and in the Rome zoo, but also run meta-analyses and collaborate with colleagues doing fieldwork."</em></p>
+<p><em>"I am a biologist interested in the social behaviour and cognition of animals, especially of primates. I conduct experimental and observational studies in our own lab and in the Rome zoo, but also run meta-analyses and collaborate with colleagues doing fieldwork."
+	
+	</em></p>
 
 <span class="image left"><img src="/assets/images/BinoWeb.jpg" width="100" height="240" /></span>
 <h3>Dr Bonaventura Majolo</h3>
