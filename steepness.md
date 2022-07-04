@@ -18,15 +18,16 @@ In this project, we test the hypothesis that there is a positive relationship be
 	<h2>Meet The Team</h2>
 </header>
 
-<span class="image left"><img src="/assets/images/PengzhenWeb.jpg" width="40"/></span> 
+<span class="image left"><img src="/assets/images/PengzhenWeb.jpg" width="40px"/></span> 
+<div style="text-align:center"><img class="image" src="/assets/images/symposium.png" width="300"/></div><br/>
 <h3>Dr Pengzhen Huang</h3>
 <p><strong>Research Assistant</strong> at the East China Normal University</p>
 <p><em>"I am a behavioral ecologist and interested in social relationships underlying the evolution of social systems in primates. My research primarily focused on the formation and maintenance of social relationships among group members and how they are changed and shaped with the dynamics of the external social environment during their lifetime. I’m particularly interested in analyzing sociality from both individual and group levels using the network-based approach. Combined with inter-species comparative analyses, these investigations help to clarify the behavioral mechanisms maintaining stability and integrity of social groups, as well as the evolutionary pathway of social systems in primates.">
-<span class="image left"><img src="/assets/images/SchinoWeb.jpeg" width="40"/></span>
+<span class="image left"><img src="/assets/images/SchinoWeb.jpeg" width="40px"/></span>
 <h3>Dr Gabriele Schino</h3>
 <p><strong>Research Director</strong> at the Institute of Cognitive Sciences and Technologies, National Research Council</p>
 <p><em>"I am a biologist interested in the social behaviour and cognition of animals, especially of primates. I conduct experimental and observational studies in our own lab and in the Rome zoo, but also run meta-analyses and collaborate with colleagues doing fieldwork."</em></p>
-<span class="image left"><img src="/assets/images/BinoWeb.jpg" width="40"/></span>
+<span class="image left"><img src="/assets/images/BinoWeb.jpg" width="40px"/></span>
 <h3>Dr Bonaventura Majolo</h3>
 <p><strong>Professor</strong>at the School of Psychology, University of Lincoln</p>
 <p><em>“I am interested in social evolution, particularly in the socio-ecology of cooperation and competition between- and within-groups and in the evolutionary roots of warfare. I conduct field work with macaques, in Indonesia, and I also run lab-based experiments with humans.”</em></p>
