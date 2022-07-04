@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Rank-Related Fitness Benefits And Hierarchy Steepness In Primates"
+title: "Rank-Related Fitness Benefits And Hierarchy Steepness"
 permalink: /steepness/
 ---
 ***
 
-<div style="text-align:center"><img class="image center" src="/assets/images/monkeybanner1.png"/></div><br/>
+<div style="text-align:center"><img class="image center" src="/assets/images/macaquebanner1.png"/></div><br/>
 
 In gregarious societies, dominant individuals generally have preferential access to fitness-related resources at the expenses of subordinates. This results in an uneven distribution of resources among group members. However, the extent to which dominants monopolise resources may vary depending on the competitive regime and the distribution/abundance of the resources. In primates, inter- and intra-specific differences in competitive regimes results in societies that vary, along a continuum, from egalitarian to despotic. At the two extremes of this continuum, social tolerance and shallow dominance hierarchies characterise social interactions among group members in egalitarian societies, whereas a linear and steep dominance hierarchy is observed in despotic societies. 
 
