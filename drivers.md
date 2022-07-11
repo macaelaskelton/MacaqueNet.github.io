@@ -49,7 +49,7 @@ This project is part of the larger, ERC-funded  <a href="https://www.friendorigi
 </div>
 
 <div class="team">
-	<span class="image left"><img src="/assets/images/oliver.jpg", height = "260px", width = "auto"/></span>
+	<span class="image left"><img src="/assets/images/oliver.jpg", height = "260px"/></span>
 	<h3>Dr Oliver Schülke</h3>
 	<p><strong>Senior Scientist</strong> at Johann-Friedrich-Blumenbach Institute for Zoology and Anthropology, University of Göttingen and the German Primate Center (DPZ)</p>
 	<p><em>"I am a behavioral ecologist interested in the evolution social systems. I worked on colobines and lemurs and used comparative analyses before I began focusing on macaques. Most of my energy goes into a long-term field project on a population of Assamese macaques in Thailand that I direct with Julia Ostner. With students and doctoral researchers in our group we also studied stump-tailed, Siberut, crested black, Barbary, and rhesus macaques. We are particularly interested in how the different parts of the social system interact and how everyday social behaviour translates into evolutionary fitness".</em></p>
