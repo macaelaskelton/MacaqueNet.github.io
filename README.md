@@ -1,6 +1,4 @@
-# ManyPrimates website
-
-Source code for [https://manyprimates.github.io/](https://manyprimates.github.io/)
+# MacaqueNet website
 
 ## Structure
 
